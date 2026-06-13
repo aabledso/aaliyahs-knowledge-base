@@ -1,2 +1,2 @@
-## Aaliyah Bledsoe
+##Aaliyah Bledsoe
 Hello, my name is Aaliyah Bledsoe. I am 21 years old and a student at Texas Tech University. Outside of school, I work full-time at a manufacturing company. I have a love for robotics, mathematics, and all things hands on.
