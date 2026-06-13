@@ -1,6 +1,7 @@
 ---
 title: An Introduction to Industrial Robots
 ---
+I am still unsure of my chosen topic, but for the sake of this assignment I have chosen Industrial Robots.
 ## The index page
 
 This is the index page (`content/index.md`) of your knowledge base docs. It serves as the home page for your website.
