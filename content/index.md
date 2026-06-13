@@ -1,5 +1,5 @@
 ---
-title: Template for Knowledge Base Docs Websites
+title: An Introduction to Industrial Robots
 ---
 ## The index page
 
