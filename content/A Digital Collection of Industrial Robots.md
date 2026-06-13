@@ -1,6 +1,10 @@
 ---
-title: Template for Knowledge Base Docs Websites
+title: A Digital Collection of Industrial Robots
 ---
+### Small Introduction
+I am still unsure about my chosen topic, but for now we will say it's Industrial Robots.
+
+
 ## The index page
 
 This is the index page (`content/index.md`) of your knowledge base docs. It serves as the home page for your website.
