@@ -2,10 +2,13 @@
 title: An Introduction to Industrial Robots
 ---
 I am still unsure of my chosen topic, but for the sake of this assignment I have chosen Industrial Robots.
-## The index page
 
-This is the index page (`content/index.md`) of your knowledge base docs. It serves as the home page for your website.
-
+## Main Categories
+- [[assembly-robots/index|Assembly Robots]]
+- [[material-handling-robots/index|Material Handling Robots]]
+- [[welding-robots/index|Welding Robots]]
+- [[palletizing-robots/index|Palletizing Robots]]
+- [[painting-robots/index|Painting Robots]]
 ## Editing pages
 
 You can edit this index page by opening the `content/index.md` file (found in the `content/` folder) in a Markdown-specific app or any text editor. 
