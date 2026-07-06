@@ -1,5 +1,5 @@
 ---
-title: An Introduction to Industrial Robots
+title: Exploring Coffee Shops
 ---
 My chosen topic is coffee shops. I enjoy visiting local shops in San Antonio and plan on using this as a way to keep track of my coffee journey.
 ## Main Categories
