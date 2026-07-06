@@ -4,9 +4,9 @@
 ## What does Chai Tea taste like?
 
 ### My favorites:
-- favorite #1
-- favorite #2
-- favorite #3
+- Dirty Chai
+- Chai Latte with almond flavor
+- Plain Chai Latte from CommonWealth Coffee House
 
 
 >Chai Tea to fill your heart with warmth!

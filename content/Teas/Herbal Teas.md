@@ -4,9 +4,9 @@
 ## What do Herbal Teas taste like?
 
 ## My favorites:
-- favorite #1
-- favorite #2
-- favorite #3
+- Honey Citrus Mint Tea
+- Chamomile Tea
+- Lemon and Ginger Tea
 
 
 >Herbal Teas when you're miserable and sick!

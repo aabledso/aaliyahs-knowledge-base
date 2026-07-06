@@ -4,9 +4,9 @@
 ## What do Iced Teas taste like?
 
 ### My favorites:
-- favorite #1
-- favorite #2
-- favorite #3
+- Dirty Cherry Poppi from HTeaO
+- Iced Peach Green Tea
+- Iced Green Tea with almond and vanilla from On the Grind
 
 
 >Iced Teas for hot Summer days!

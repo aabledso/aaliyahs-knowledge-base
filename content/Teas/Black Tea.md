@@ -5,9 +5,9 @@
 
 
 ### My favorites:
-- favorite #1
-- favorite #2
-- favorite #3
+- Earl Grey with splash of heavy cream
+- Lord Bergamot from Honey Flutters
+- Yemeni Black Tea from Qatra
 
 
 >Black Tea for chill days!

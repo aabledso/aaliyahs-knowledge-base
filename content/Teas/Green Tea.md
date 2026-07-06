@@ -4,9 +4,9 @@
 ## What does Green Tea taste like?
 
 ### My favorites:
-- favorite #1
-- favorite #2
-- favorite #3
+- Green Tea with coconut milk and coconut flavor from Dutch Bros
+- Matcha with vanilla and lavender
+- Cherry Blossom Green Tea from 7Brew
 
 >Green Tea for Spring cleaning days!
 
