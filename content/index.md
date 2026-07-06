@@ -3,11 +3,12 @@ title: An Introduction to Industrial Robots
 ---
 My chosen topic is coffee shops. I enjoy visiting local shops in San Antonio and plan on using this as a way to keep track of my coffee journey.
 ## Main Categories
-- [[coffee/index|Assembly Robots]]
-- [[teas/index|Material Handling Robots]]
-- [[energy-drinks/index|Welding Robots]]
-- [[local-rankings/index|Palletizing Robots]]
-- [[small-bites/index|Painting Robots]]
+- [[coffee/index|Coffee]]
+- [[Teas/index|Teas]]
+- [[energy-drinks/index|Energy Drinks]]
+- [[small-bites/index|Small Bites]]
+- [[local-rankings/index|Local Rankings]]
+
 ## Editing pages
 
 You can edit this index page by opening the `content/index.md` file (found in the `content/` folder) in a Markdown-specific app or any text editor. 
