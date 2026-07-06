@@ -1,14 +1,13 @@
 ---
 title: An Introduction to Industrial Robots
 ---
-I am still unsure of my chosen topic, but for the sake of this assignment I have chosen Industrial Robots.
-
+My chosen topic is coffee shops. I enjoy visiting local shops in San Antonio and plan on using this as a way to keep track of my coffee journey.
 ## Main Categories
-- [[assembly-robots/index|Assembly Robots]]
-- [[material-handling-robots/index|Material Handling Robots]]
-- [[welding-robots/index|Welding Robots]]
-- [[palletizing-robots/index|Palletizing Robots]]
-- [[painting-robots/index|Painting Robots]]
+- [[coffee/index|Assembly Robots]]
+- [[teas/index|Material Handling Robots]]
+- [[energy-drinks/index|Welding Robots]]
+- [[local-rankings/index|Palletizing Robots]]
+- [[small-bites/index|Painting Robots]]
 ## Editing pages
 
 You can edit this index page by opening the `content/index.md` file (found in the `content/` folder) in a Markdown-specific app or any text editor. 
