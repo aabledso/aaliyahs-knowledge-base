@@ -15,4 +15,4 @@ I really enjoy pairing Grab and Go items with drinks that won't overpower them. 
 
 * Stack of cookies **+** [[Drip Coffee]]
 * Yogurt parfait **+** [[Black Tea]]
-* Snack Tray **+** [[Green Tea]]
+* Snack Tray **+** [[Herbal Teas]]]

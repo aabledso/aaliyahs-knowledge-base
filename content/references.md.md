@@ -25,7 +25,12 @@ date: 2026-07-26
 
 [[RedBull Energy Drinks]] image - Photo by Nguyen Tien Thinh on Pexels: https://images.pexels.com/photos/33450363/pexels-photo-33450363.jpeg
 
+[[Cold Coffee]] image - Photo Soc Nang Dong on Pexels: https://www.pexels.com/photo/refreshing-iced-coffee-in-a-glass-on-wooden-table-33369095/
 
+[[Drip Coffee]] image - Photo by Israyosoy S. on Pexels: https://www.pexels.com/photo/close-up-of-specialty-coffee-brewing-in-glass-carafe-29619142/
 
+[[Espresso]] image - Photo by Ebru Dogan on Pexels: https://www.pexels.com/photo/espresso-in-glass-25409661/
+
+[[Specialty Coffee]] image - Photo by Yasminizm on Pexels: https://www.pexels.com/photo/creamy-milkshake-with-nut-topping-and-metal-straw-33459485/
 
 
