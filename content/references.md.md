@@ -33,4 +33,11 @@ date: 2026-07-26
 
 [[Specialty Coffee]] image - Photo by Yasminizm on Pexels: https://www.pexels.com/photo/creamy-milkshake-with-nut-topping-and-metal-straw-33459485/
 
+[[small-bites/index|Small-bites index]] image - Photo by Chris L on Pexels: https://www.pexels.com/photo/delicious-breakfast-pastries-and-coffee-arrangement-29918625/
+
+[[Teas/index|Teas index]] image - Photo by Anna Pau on Pexels: https://www.pexels.com/photo/assorted-herbs-on-bowls-8330249/
+
+[[energy-drinks/index|Energy Drinks index]] image - Photo by Renan Mandelo Oliveira on Pexels: https://www.pexels.com/photo/blue-liquid-splash-on-glass-1535086/
+
+
 
