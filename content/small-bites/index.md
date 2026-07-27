@@ -1,5 +1,5 @@
 ---
 title: Small Bites
-2026-07-27: 2026-07-27
+date: 2026-07-26
 ---
 [[index|return to homepage]]
