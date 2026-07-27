@@ -19,6 +19,13 @@ date: 2026-07-26
 
 [[Grab & Go]] image - Photo by Soc Nang Dong on Pexels: https://www.pexels.com/photo/decorative-cookie-jars-on-display-in-shop-32248096/
 
+[[Energy Refreshers]] image - Photo by Kunal Lakhotia on Pexels: https://www.pexels.com/photo/refreshing-cold-brew-coffee-on-ice-28944483/
+
+[[Frozen Energy Drinks]] image - Photo by Nam Phong Bui on Pexels: https://www.pexels.com/photo/clear-plastic-cup-with-green-liquid-4055138/
+
+[[RedBull Energy Drinks]] image - Photo by Nguyen Tien Thinh on Pexels: https://images.pexels.com/photos/33450363/pexels-photo-33450363.jpeg
+
+
 
 
 
