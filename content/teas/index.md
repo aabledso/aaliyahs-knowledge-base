@@ -1,5 +1,5 @@
 ---
-title: Teas
+title:
 ---
 ## Related Categories
 [[local-rankings/index|Local Rankings]] has some of my favorite shops in San Antonio to get either an iced tea on a hot day or a hot tea when it's cold outside. 
